@@ -1,0 +1,4 @@
+Hi, I’m David — a growing Front-End Developer who loves turning ideas into clean, responsive websites.
+I’m currently building my skills in HTML, CSS, and JavaScript, and I enjoy creating simple, user-friendly interfaces that work well on any device. Even though I’m still early in my journey, I’m constantly improving by building projects, learning modern web tools, and experimenting with new design ideas.
+
+I’m passionate about tech, problem-solving, and bringing designs to life on the web. Every project I work on helps me grow, and I’m excited to keep building and learning as I move toward becoming a full-stack developer.
